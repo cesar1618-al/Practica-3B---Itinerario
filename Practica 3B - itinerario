@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practica 3B - Itinerario</title>
+</head>
+<body>
+
+
+    <table  style="text-align: center;" cellspasing="1" align="center" border="1" width="50%" summary = "Hotel Pequeña Costa">
+        <caption>Hotel Pequeña Costa</caption>
+        <tr>
+            <th bgcolor="rgb(0,100,0)">Hora</th>
+            <th bgcolor="rgb(205,92,92)">Día 1</th>
+        </tr>
+
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)" >12:00 p.m. - 1:00 p.m.</td>
+            <td bgcolor="rgb(2, 187, 2)">Arribo al hotel y asignación de habitación</td>
+        </tr>
+
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)">1:00 p.m. a 3:00 p.m.</td>
+            <td bgcolor="rgb(2, 187, 2)">Almuerzo con Buffet o especialidad a la carta en el restaurante del hotel</td>
+        </tr>
+
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)">3:00 p.m. a 5:00 p.m.</td>
+            <td bgcolor="rgb(2, 187, 2)">Recorrido por las instalaciones del hotel y orientación sobre las actividades recreativas disponibles</td>
+        </tr>
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)">5:00 p.m. a 7:30 p.m.</td>
+            <td bgcolor="rgb(2, 187, 2)">Tiempo que se usara para el descaso del huesped ya sea en la pisica o spa</td>
+        </tr>
+
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)"> 7:30 p.m. a 9:00 p.m. </td>
+            <td bgcolor="rgb(2, 187, 2)"> Cena en el restaurante del hotel </td>
+        </tr>
+
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)">9:00 p.m. a 11:00 p.m.</td>
+            <td bgcolor="rgb(2, 187, 2)"><p> Actividad nocturna a elejir:</p>
+                <p>1.- Show de talentos</p>
+                <p>2.- Musica en vivo</p>
+                <p>3.- Karaoke</p>
+            </td>
+        </tr>
+
+
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+
+
+
+        <tr>
+            <th bgcolor="rgb(0,100,0)">Hora</th>
+            <th bgcolor="rgb(205,92,92)">Día 2</th>
+        </tr>
+
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)">8:00 a.m. a 9:00 a.m.</td>
+            <td bgcolor="rgb(2, 187, 2)">Desayuno Buffet o servicio a la habitación</td>
+        </tr>
+
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)">9:00 a.m. a 1:00 p.m.</td>
+            <td bgcolor="rgb(2, 187, 2)"><p> Elección de las actividades del día:</p>
+                <p>1.- Excursión guiada a una playa cercana</p>
+                <p>2.- Clases de yoga y buceo</p>
+            </td>
+        </tr>
+
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)">1:00 p.m. a 3:00 p.m.</td>
+            <td bgcolor="rgb(2, 187, 2)">Regrse al hotel para almorzar o comer en un restaurante local</td>
+        </tr>
+
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)">3:00 p.m. a 5:00 p.m.</td>
+            <td bgcolor="rgb(2, 187, 2)">Relajarse en el spa, alberca o playa privada del hotel</td>
+        </tr>
+
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)">5:00 p.m. a 7:30 p.m.</td>
+            <td bgcolor="rgb(2, 187, 2)"><p> Actividad recreativa a elejir:</p>
+                <p>1.- Juego de boleibol de playa</p>
+                <p>2.- Juego de futbol de playa</p>
+                <p>3.- Curso de cocina</p>
+            </td>
+        </tr>
+
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)">7:30 p.m. a 9:00 p.m.</td>
+            <td bgcolor="rgb(2, 187, 2)">Cena al aire libre</td>
+        </tr>
+
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)">9:00 p.m. a 11:00 p.m.</td>
+            <td bgcolor="rgb(2, 187, 2)"><p> Actividad nocturna a elejir:</p>
+                <p>1.- Fogata en la playa</p>
+                <p>2.- Espectaculo cultural</p>
+                <p>3.- Degustación de cocteles</p>
+            </td>
+        </tr>
+
+
+
+        <tr></tr>
+            <td></td>
+            <td></td>
+        </tr>
+
+
+
+        <tr>
+            <th bgcolor="rgb(205,92,92)">Hora</th>
+            <th bgcolor="rgb(205,92,92)">Día 3</th>
+        </tr>
+
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)">8:00 a.m. a 9:00 a.m.</td>
+            <td bgcolor="rgb(2, 187, 2)">Desayuno Buffet o en la terraza del hotel</td>
+        </tr>
+
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)">9:00 a.m. a 12:00 p.m.</td>
+            <td bgcolor="rgb(2, 187, 2)">Tiempo de relajación en el spa a piscina del hotel</td>
+        </tr>
+
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)">12:00 p.m. a 12:30 p.m.</td>
+            <td bgcolor="rgb(2, 187, 2)">Entrega de la habitación del hotel</td>
+        </tr>
+
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)">12:30 p.m. a 1:30 p.m.</td>
+            <td bgcolor="rgb(2, 187, 2)">Almuerzo en un restaurante cercano al hotel</td>
+        </tr>
+
+        <tr>
+            <td bgcolor="rgb(255, 182, 193)">1:30 p.m. a 2:30 p.m.</td>
+            <td bgcolor="rgb(2, 187, 2)">Traslado al aeropuerto</td>
+        </tr>
+
+    </table>
+
+    
+</body>
+</html>
